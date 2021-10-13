@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokemonDemo</string>
+
+    <string name="bulbasaur">Le Bulbasaur</string>
+    <string name="charmander">Le Charmander</string>
+    <string name="squirtle">Le Squirtle</string>
+
+
+    <string name="desc_0">Description Bulbausaur</string>
+    <string name="desc_1">Description Charamander</string>
+    <string name="desc_2">Description Squid </string>
+
+</resources>
